@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" fill="none">
+  <defs>
+    <pattern id="blocks" width="82" height="72" patternUnits="userSpaceOnUse" patternTransform="rotate(-12)">
+      <path d="M0 8h82M10 0v72M54 8v64M0 42h82" stroke="#D9E3E2" stroke-width="1.2"/>
+      <path d="M19 17h25v14H19zM62 51h13v17H62z" fill="#E8EFEB"/>
+    </pattern>
+    <pattern id="park" width="12" height="12" patternUnits="userSpaceOnUse">
+      <path d="M0 12 12 0M-3 3 3-3M9 15l6-6" stroke="#C2D8C7" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <path fill="#E9EFEC" d="M0 0h900v420H0z"/>
+  <path fill="url(#blocks)" d="M0 0h900v420H0z"/>
+  <path fill="#D8E9D9" d="m83 29 139-4 17 75-132 16-39-37zM605 31l112 4 15 68-114 19-25-42zM57 292l107-24 33 57-41 55-89-20zM697 280l136-8 18 91-101 32-52-50z"/>
+  <path fill="url(#park)" d="m83 29 139-4 17 75-132 16-39-37zM605 31l112 4 15 68-114 19-25-42zM57 292l107-24 33 57-41 55-89-20zM697 280l136-8 18 91-101 32-52-50z"/>
+  <path d="M-28 229c88-30 130 27 204 4 62-20 111-65 178-42 78 27 106 76 178 57 59-15 91-58 153-44 67 15 123 74 243 38" stroke="#B5DDE4" stroke-width="26"/>
+  <path d="M-28 229c88-30 130 27 204 4 62-20 111-65 178-42 78 27 106 76 178 57 59-15 91-58 153-44 67 15 123 74 243 38" stroke="#F8FCFC" stroke-width="18"/>
+  <g stroke="#FFFDF4" stroke-width="5" stroke-linecap="round">
+    <path d="M-10 83 234 114l116 24 143 43 136-26 161-22 126 10"/>
+    <path d="m-12 158 190-5 145 37 96 28 158-15 136 23 201-18"/>
+    <path d="m-12 337 177-74 119-51 143-23 152-44 127-55 206-13"/>
+    <path d="m104-20 28 112 30 78 16 89 31 92 3 91"/>
+    <path d="m277-18-9 115 21 93-13 102 18 146"/>
+    <path d="m442-21 18 113-3 92 18 114 33 128"/>
+    <path d="m613-12-36 123 11 82-7 92 27 145"/>
+    <path d="m783-13-26 117 21 83-2 98 20 140"/>
+  </g>
+  <g stroke="#D4C9A8" stroke-width="2.5" stroke-linecap="round">
+    <path d="M-10 83 234 114l116 24 143 43 136-26 161-22 126 10"/>
+    <path d="m-12 158 190-5 145 37 96 28 158-15 136 23 201-18"/>
+    <path d="m-12 337 177-74 119-51 143-23 152-44 127-55 206-13"/>
+  </g>
+  <g fill="#687C82" font-family="Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.4">
+    <text x="63" y="61">CAMDEN</text>
+    <text x="284" y="66">KING'S CROSS</text>
+    <text x="608" y="66">ISLINGTON</text>
+    <text x="102" y="187">MARYLEBONE</text>
+    <text x="652" y="168">CITY OF LONDON</text>
+    <text x="71" y="376">BATTERSEA</text>
+    <text x="672" y="355">CAMBERWELL</text>
+    <text x="362" y="310" fill="#527282" font-size="23" letter-spacing="2">LONDON</text>
+    <text x="397" y="333" fill="#527282" font-size="10" letter-spacing="1">THE THAMES</text>
+    <text x="476" y="82" font-size="9">MUSEUM OF THE HOME</text>
+    <text x="189" y="289" font-size="9">WESTMINSTER</text>
+  </g>
+  <g fill="#fff" stroke="#1688BB" stroke-width="3">
+    <circle cx="261" cy="129" r="9"/>
+    <circle cx="559" cy="154" r="9"/>
+    <circle cx="665" cy="104" r="9"/>
+    <circle cx="399" cy="178" r="9"/>
+    <circle cx="519" cy="284" r="9"/>
+  </g>
+  <g fill="#1688BB">
+    <circle cx="261" cy="129" r="3"/>
+    <circle cx="559" cy="154" r="3"/>
+    <circle cx="665" cy="104" r="3"/>
+    <circle cx="399" cy="178" r="3"/>
+    <circle cx="519" cy="284" r="3"/>
+  </g>
+  <path d="m264 145 7 14 7-14" fill="#1688BB"/>
+  <circle cx="271" cy="137" r="13" fill="#1688BB" fill-opacity=".17"/>
+</svg>
