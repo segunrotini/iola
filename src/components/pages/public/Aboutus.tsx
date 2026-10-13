@@ -18,7 +18,6 @@ function AboutUs() {
   const shouldReduceMotion = useReducedMotion();
   const sections = [
     { id: "vision", Component: AboutVision },
-    { id: "story", Component: AboutStory },
     { id: "values", Component: AboutValues },
     { id: "framework", Component: AboutFramework },
     { id: "leadership", Component: AboutLeadership },
